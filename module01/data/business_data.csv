@@ -1,0 +1,1801 @@
+CustomerID,Gender,Age,AnnualIncome,SpendingScore,Membership,ProductType
+9053963,,39,539644,91,Standard,COMPUTER
+9070452,Female,0,296033,41,Standard,COMPUTER
+10335165,Female,14,152779,78,    ,electronics
+7537389,Female,5,99343,60,Bronze,clothing
+12158261,Female,126,80593,99,    ,DRinkS
+15217955,Female,0,602764,18,Gold,sports
+1130119,Female,1,409316,29,Gold,dxmxp8
+5580422,smp,0,692258,18,Standard,DRinkS
+5478759,Female,0,416215,27,Gold,clothing
+12417629,,0,281289,4,Gold,electronics
+9643742,smp,0,559019,8,Standard,DRinkS
+6324055,Female,0,207630,22,Gold,food
+11603391,,0,267064,1,Bronze,clothing
+6495999,Female,35,827351,81,Standard,COMPUTER
+14209172,,0,480575,2,Gold,sports
+4943601,,0,490991,37,Bronze,Cars
+12454696,Female,0,103300,30,Bronze,food
+8947498,Male,0,457736,1,Gold,food
+6550637,,0,243068,15,    ,gUITARS
+6314645,Female,3,320048,38,Standard,DRinkS
+12674600,Male,9,71153,90,Silver,food
+5272833,Male,11,337789,83,Silver,electronics
+5085242,Female,0,494146,2,Gold,DRinkS
+4794989,smp,92,462891,91,Standard,clothing
+16269390,Female,37,811829,80,Gold,Cars
+14137574,Male,92,381874,97,Silver,Cars
+3912796,Male,0,52590,3,Standard,clothing
+1148640,Male,0,633844,30,Gold,electronics
+10380180,smp,2,404032,47,Standard,food
+9180685,Male,0,192230,1,Gold,dxmxp8
+690706,Female,149,353277,100,    ,COMPUTER
+8722757,Female,30,583048,73,Silver,food
+9562287,Female,0,242425,1,Gold,dxmxp8
+2933493,Male,0,946261,9,Gold,dxmxp8
+8791161,smp,99,306392,92,Standard,electronics
+16330190,Female,0,266759,0,Gold,food
+2987036,,3,182558,47,Standard,electronics
+10594425,Female,81,300146,88,Standard,COMPUTER
+15705842,Female,1,510852,53,Gold,sports
+13533616,Male,0,49940,12,Gold,Hardware
+13395067,Female,0,295962,25,Standard,Cars
+5807200,Male,4,55204,72,Gold,dxmxp8
+2320117,Female,23,311179,82,Standard,COMPUTER
+11747613,smp,5,637465,65,Standard,DRinkS
+4103784,Female,82,471461,95,    ,Cars
+16212537,Male,0,231408,24,Gold,Hardware
+16593474,Female,11,316646,53,Standard,Cars
+13927771,smp,8,595557,44,Bronze,COMPUTER
+13904130,Female,74,638808,91,Standard,Cars
+16249182,Female,2,178088,43,Bronze,food
+4423039,Female,3,58808,79,    ,food
+1329846,Female,1,317597,45,Silver,food
+8911306,Female,3,250482,38,Gold,dxmxp8
+15464423,Female,0,434933,1,Gold,Cars
+11097098,Male,0,538791,15,Gold,dxmxp8
+15167505,Female,5,373964,56,Standard,COMPUTER
+6379703,Female,0,792657,6,Gold,DRinkS
+2606103,Female,0,458712,26,Standard,COMPUTER
+12419780,smp,0,433885,3,Gold,food
+5658361,Female,1,43407,37,    ,Cars
+1030676,Female,0,917388,13,Gold,Cars
+13513552,Female,1,249186,50,Standard,electronics
+316230,Female,0,349901,12,Gold,sports
+15438032,Female,9,30676,71,Standard,dxmxp8
+8795862,Female,8,315258,74,Standard,food
+13124749,smp,1,391447,36,Silver,clothing
+13563858,Female,80,228773,99,    ,COMPUTER
+7862077,Female,1,645527,47,Gold,Cars
+12726885,smp,0,359721,27,    ,DRinkS
+5986878,Female,0,194714,23,Silver,sports
+516137,Male,0,59877,38,Gold,dxmxp8
+12751447,smp,91,164780,88,    ,clothing
+8568900,,150,277961,100,    ,sports
+9938495,,10,48068,68,    ,Cars
+14366496,Male,0,16441,29,Gold,Hardware
+16631467,Female,0,135399,43,Bronze,clothing
+13203753,Female,44,179123,64,Gold,sports
+8945080,,0,1232811,5,Gold,dxmxp8
+11388381,Male,0,364255,23,Gold,sports
+13697015,Female,0,388586,55,Standard,DRinkS
+2217185,Female,0,90455,5,Gold,sports
+7388792,Female,16,31521,84,    ,sports
+14366680,,8,45328,73,    ,dxmxp8
+14992109,Female,52,360541,89,Silver,sports
+6034013,Female,0,995314,1,Gold,Cars
+10525561,smp,0,1035224,2,Gold,food
+15724744,Male,6,496885,69,Gold,food
+10840899,,0,381293,2,Gold,electronics
+8025672,Male,0,29630,27,Gold,Hardware
+9467151,Female,89,120756,96,Standard,sports
+816441,Female,55,47356,97,    ,dxmxp8
+4500494,Female,2,673605,58,Gold,COMPUTER
+12709148,Female,4,653270,55,Silver,COMPUTER
+16692386,Male,3,654206,67,Gold,clothing
+12231987,Female,0,303801,23,Gold,sports
+8871385,,13,908165,52,Silver,DRinkS
+15047551,Female,0,306154,4,Bronze,Cars
+13780138,Male,49,26762,81,Standard,sports
+15918519,Female,0,360383,2,Gold,clothing
+3362749,Male,12,167074,92,Silver,dxmxp8
+9769456,Female,0,820176,1,Gold,COMPUTER
+11487764,Female,0,581225,8,Gold,clothing
+9960903,smp,0,705343,10,Standard,gUITARS
+949186,smp,42,97585,90,Standard,dxmxp8
+5415340,Male,0,11421,12,Bronze,dxmxp8
+14812585,Male,78,338277,93,Gold,Cars
+10592466,Male,0,330817,10,Gold,sports
+1145888,Female,0,300201,7,Gold,clothing
+5139101,,0,534912,18,Standard,DRinkS
+1124593,Female,23,17766,85,    ,electronics
+15028010,Female,0,257806,3,Gold,dxmxp8
+12647093,Female,88,396475,95,    ,COMPUTER
+13553334,Female,1,333970,45,Standard,COMPUTER
+4256167,Female,0,431901,1,Gold,Cars
+14033045,Female,2,554419,54,Gold,food
+15763230,Male,50,241740,89,Gold,clothing
+6984447,Female,52,621535,89,Standard,DRinkS
+11205899,,1,629226,26,Gold,food
+9840079,smp,3,330285,49,    ,DRinkS
+12223172,Male,69,5955,95,    ,sports
+13755251,,3,431989,42,Gold,Cars
+12001200,smp,0,736449,13,    ,DRinkS
+3983749,,0,104504,21,Standard,sports
+7206654,smp,67,188930,90,    ,gUITARS
+958122,Female,0,866184,14,Gold,Cars
+3019975,Male,0,199034,11,Gold,Hardware
+1509045,Male,130,117658,97,Standard,food
+11496385,Female,0,788326,2,Gold,food
+16047488,Male,0,260988,16,Gold,food
+5431471,smp,26,762195,75,Standard,DRinkS
+866612,smp,0,973923,20,Gold,COMPUTER
+5980777,smp,0,937228,1,Silver,gUITARS
+12430508,Female,36,151337,79,Standard,clothing
+13663140,Female,0,434335,10,Silver,COMPUTER
+483817,Male,0,13889,4,Gold,dxmxp8
+7622606,,121,228683,97,Standard,clothing
+16620567,Female,141,182735,100,Standard,dxmxp8
+14930391,Female,84,715978,89,Silver,COMPUTER
+4782121,Male,0,265337,15,Gold,sports
+12656538,,31,135646,90,Standard,sports
+5804393,Male,13,125106,80,Standard,clothing
+6551859,Male,6,3101,67,Standard,dxmxp8
+60159,smp,0,344628,8,Standard,COMPUTER
+3121172,Female,1,656194,52,Standard,COMPUTER
+8377322,Male,0,66042,37,Gold,Hardware
+102277,Male,0,113849,42,Silver,dxmxp8
+4223826,Male,0,298682,25,Gold,Hardware
+8632726,,119,414812,98,    ,COMPUTER
+14087788,Female,3,177537,67,Standard,electronics
+11002368,Male,0,2167,26,Standard,Hardware
+778013,,85,137633,95,Standard,sports
+7862605,Female,0,452129,37,Gold,electronics
+12837560,Female,1,353544,42,Gold,sports
+6670653,Male,4,351641,59,Gold,Hardware
+4301871,,4,269188,68,    ,DRinkS
+3804151,smp,1,564718,47,    ,DRinkS
+901423,Female,0,79131,11,Standard,clothing
+1726188,Male,0,286654,14,Gold,food
+1859851,,0,469199,0,Gold,Cars
+10905938,Female,0,690048,2,Gold,DRinkS
+10038306,smp,0,540053,24,Standard,DRinkS
+15963338,smp,0,522187,31,Standard,DRinkS
+12402268,Female,21,136420,81,Standard,dxmxp8
+9508130,Male,36,4349,94,Silver,Hardware
+12902284,Female,1,649867,52,Standard,DRinkS
+1350236,Female,1,347012,46,Standard,COMPUTER
+2328951,smp,26,883971,68,Gold,COMPUTER
+7749072,Female,3,294291,43,Silver,electronics
+9268728,Female,139,130346,99,Gold,Hardware
+9048257,Female,42,632959,75,Gold,Cars
+5227966,Female,115,277368,96,    ,electronics
+2864826,Female,0,512789,0,Gold,Cars
+11810162,,0,358186,18,Standard,COMPUTER
+2856946,Female,32,380964,80,Standard,food
+13123337,Male,0,54868,28,Gold,Hardware
+3985615,Female,0,383552,8,Gold,Hardware
+12855225,Male,0,166114,51,Standard,food
+7346563,Female,99,113277,97,Standard,sports
+6327794,Female,0,114125,21,Gold,dxmxp8
+14585380,Female,12,505341,63,Standard,DRinkS
+9097618,Female,27,46663,90,Standard,dxmxp8
+5853402,smp,11,866074,39,Gold,COMPUTER
+12138997,Female,0,504978,22,Standard,DRinkS
+11863107,Female,0,101992,60,    ,Cars
+15960984,,0,794998,36,Gold,Cars
+1614486,smp,0,777377,1,Gold,electronics
+1026325,Female,3,282455,61,Gold,sports
+1835942,Male,1,87678,73,Bronze,clothing
+12645666,Male,58,3381,95,    ,dxmxp8
+6008006,smp,0,752661,22,Standard,DRinkS
+5359963,Male,1,123778,61,Standard,sports
+4819003,Female,0,100574,4,Standard,Cars
+9371173,,0,272266,27,Gold,dxmxp8
+13031304,Male,0,67590,53,Bronze,electronics
+10073309,Female,1,364786,43,Gold,sports
+2873829,Female,50,219089,85,Standard,food
+7003116,Female,0,244153,32,Silver,electronics
+13408031,Female,0,49364,44,Standard,clothing
+12393635,smp,3,440420,58,Bronze,sports
+1843194,Female,2,54182,41,Standard,clothing
+7356721,,1,340276,42,Gold,dxmxp8
+12739148,,137,965818,98,Silver,DRinkS
+4120770,Female,0,287944,28,Gold,dxmxp8
+13377572,Male,0,779206,0,Gold,Cars
+10130316,,0,765293,17,Gold,clothing
+12374691,smp,0,835006,1,Gold,food
+5462223,smp,2,267815,37,Standard,food
+4607444,smp,132,23028,100,    ,clothing
+2703178,Female,110,48889,99,Standard,sports
+9885826,Female,0,376310,16,Gold,food
+10199629,Male,43,306192,86,Silver,sports
+15635724,,0,491844,9,Gold,food
+16141384,Male,0,117691,3,Gold,dxmxp8
+15222747,Female,19,28017,75,Standard,dxmxp8
+16415010,Female,61,303782,91,Bronze,sports
+7407974,Female,29,249148,91,    ,COMPUTER
+12666150,,0,388007,30,Standard,COMPUTER
+4468170,Female,0,51901,48,Silver,dxmxp8
+8501940,Female,2,255468,42,Gold,clothing
+6261374,Female,0,408262,29,Bronze,food
+8489536,Female,54,404800,93,    ,DRinkS
+14066579,Female,0,248736,6,Standard,DRinkS
+16436856,Female,17,350361,61,Silver,Cars
+1765359,Male,0,197242,22,Gold,dxmxp8
+3350773,Male,0,434523,5,Gold,clothing
+2214768,Female,11,239005,70,Bronze,sports
+1154747,Female,0,443510,11,Gold,electronics
+7379357,smp,0,669594,18,Standard,COMPUTER
+6441909,Male,0,281957,1,Gold,food
+4014371,,141,542685,99,    ,gUITARS
+11956057,Female,0,339661,0,Gold,Hardware
+8412132,Female,123,161576,99,Standard,sports
+9078378,Female,0,812951,4,Gold,food
+16028335,Female,0,603746,0,Gold,clothing
+9746970,Male,0,230447,36,Silver,food
+299460,smp,11,813622,51,Gold,food
+4742337,Male,92,221178,98,Silver,food
+16757194,Female,2,229468,69,Standard,Cars
+16580413,Female,0,53457,28,Standard,clothing
+3274553,smp,0,691083,31,Gold,clothing
+14647840,Female,78,127533,98,    ,electronics
+7064718,Female,137,29629,100,    ,Cars
+16471766,Male,0,356650,26,Gold,clothing
+7046562,Male,0,281906,20,Gold,electronics
+5994321,smp,0,718528,3,Gold,DRinkS
+10285191,,0,964275,30,    ,gUITARS
+1691163,Female,0,435510,2,Gold,clothing
+1893752,Male,0,421631,15,Gold,Hardware
+8085064,Female,1,123291,71,Standard,sports
+1273702,Female,2,1136789,47,Standard,gUITARS
+3238674,Female,0,259636,7,Silver,COMPUTER
+4816948,Female,0,924047,0,Gold,COMPUTER
+11941594,Male,0,267443,13,Gold,dxmxp8
+11955277,,0,643914,1,Gold,clothing
+8335550,smp,0,754720,0,Gold,COMPUTER
+9229594,Female,15,283840,81,Standard,Cars
+7567147,smp,1,256957,51,Standard,food
+7316851,Male,0,313804,7,Gold,clothing
+8106734,Female,0,638149,21,Gold,sports
+12046873,Female,26,555029,79,Standard,electronics
+9661079,Female,0,457642,7,Gold,dxmxp8
+10071095,smp,7,473601,58,Gold,electronics
+13924958,Female,35,401685,70,    ,Cars
+7446410,smp,0,320154,22,Standard,DRinkS
+1623516,Female,0,454243,2,Silver,DRinkS
+15094268,Male,0,101025,5,Gold,clothing
+258420,Female,8,353623,43,Gold,dxmxp8
+4806597,Female,65,235664,96,Gold,dxmxp8
+6165667,Female,0,745977,2,Gold,COMPUTER
+9836739,Male,1,58578,50,Bronze,sports
+9567994,,0,161905,38,Standard,electronics
+6720531,smp,23,983623,82,Gold,electronics
+15929509,Female,42,351637,79,Gold,electronics
+6606943,,10,220432,79,Standard,food
+1167928,Female,0,283663,18,Silver,food
+7065161,Male,4,518257,55,Gold,food
+8949047,Male,0,93565,15,Gold,sports
+6829887,Female,146,173445,100,    ,sports
+10208256,Female,100,605178,97,Gold,dxmxp8
+12650742,Male,0,252924,25,Gold,dxmxp8
+11321806,smp,0,340094,8,Gold,dxmxp8
+7802140,Female,2,384750,59,Standard,Cars
+16233353,Female,147,289404,100,Standard,sports
+4906552,,0,325103,7,Bronze,electronics
+15639836,smp,0,419959,13,Gold,sports
+6879800,Female,0,378601,1,Gold,Cars
+1657821,Female,102,259391,92,Standard,sports
+7012632,,0,277060,20,Standard,COMPUTER
+4027215,Male,0,247892,8,Gold,dxmxp8
+5400608,,0,454720,10,Standard,DRinkS
+4161129,,0,256454,3,Gold,dxmxp8
+15625474,Male,0,190915,5,Gold,sports
+13359894,smp,135,521781,99,    ,COMPUTER
+11895303,Female,0,429914,24,Standard,DRinkS
+3860815,,3,534154,50,Gold,clothing
+13896294,smp,65,501566,93,Standard,COMPUTER
+11058818,smp,0,278923,4,Gold,sports
+6787595,Female,1,288601,53,Silver,food
+8653116,Female,1,213088,34,Gold,clothing
+11451670,Male,0,895343,0,Gold,dxmxp8
+14720545,Female,94,298105,87,Gold,Hardware
+7431767,,148,110581,100,    ,COMPUTER
+14952841,Female,8,264211,76,Standard,food
+11027796,Male,8,128191,65,Gold,Hardware
+7669704,,1,441517,34,Standard,COMPUTER
+14203226,Female,0,13309,4,Gold,dxmxp8
+1772585,Male,3,424824,38,Gold,dxmxp8
+9956530,smp,0,802393,2,Gold,DRinkS
+8705085,Male,0,219091,8,Gold,Hardware
+3694194,Female,18,136738,79,Standard,dxmxp8
+10297042,smp,5,179849,70,Standard,clothing
+7055236,,8,387540,55,Gold,electronics
+13682329,Female,20,119595,71,    ,COMPUTER
+12784699,Male,0,105526,24,Gold,clothing
+11380860,Male,83,127231,92,Bronze,dxmxp8
+6132118,Female,0,635849,49,Standard,DRinkS
+12382295,Female,13,286212,62,Silver,food
+14772724,Male,5,54555,72,Standard,clothing
+2852624,Female,58,19981,97,Standard,dxmxp8
+6489950,Female,3,210086,59,Standard,electronics
+9053437,Male,0,187323,43,Gold,food
+6574725,Male,12,430876,90,Bronze,Cars
+7316593,Female,1,230153,67,Standard,COMPUTER
+2134533,,0,439530,20,Standard,Cars
+12336503,Female,0,245741,27,Bronze,food
+5705397,Female,0,128191,6,    ,DRinkS
+106937,Female,12,747154,58,Gold,Cars
+11521587,Female,16,21818,82,Standard,sports
+11063166,Female,0,402388,19,Gold,dxmxp8
+10178700,smp,0,896578,29,Standard,gUITARS
+13477654,Male,0,208409,45,Standard,food
+7038039,Male,0,225320,0,Gold,sports
+5995758,Female,59,121089,89,Gold,Hardware
+1363427,Female,2,234587,59,    ,DRinkS
+16365182,Male,44,45115,85,Standard,sports
+15456874,Male,109,153359,98,    ,Cars
+14278210,Male,12,281685,79,Gold,dxmxp8
+13690623,Male,2,166824,56,Standard,dxmxp8
+29467,Male,0,139674,2,Gold,food
+14905163,Female,123,217034,99,    ,DRinkS
+1168927,Male,0,610377,21,Gold,dxmxp8
+7960867,Male,0,233054,14,Gold,food
+8456039,Female,0,349878,13,Gold,food
+4418843,Male,139,156997,100,Standard,food
+5444780,Male,0,110798,28,Gold,dxmxp8
+1442237,Female,112,78612,99,Bronze,sports
+15584377,smp,2,357091,45,Standard,electronics
+14686816,Male,0,214170,33,Gold,food
+15920712,Female,0,688670,6,Silver,DRinkS
+4480869,Female,0,229225,24,Standard,DRinkS
+2603485,Female,0,1227023,2,Gold,gUITARS
+2605701,Male,83,438786,97,Bronze,sports
+6381887,,54,127813,85,Standard,clothing
+8046687,Female,43,534083,83,Gold,clothing
+13798493,Male,0,421474,30,Gold,dxmxp8
+11114668,,16,219268,91,Standard,sports
+13660876,,0,374730,21,Standard,DRinkS
+9644659,Female,128,107269,99,Standard,Hardware
+1380922,Female,113,302449,96,Bronze,sports
+5711406,Female,1,341972,46,    ,DRinkS
+10416299,Female,0,318415,47,Standard,DRinkS
+14652443,Female,0,309861,2,Gold,sports
+2086715,Male,12,225875,76,Standard,sports
+16321561,,43,51779,80,Standard,dxmxp8
+7490147,,49,677835,85,    ,gUITARS
+2909689,Female,0,380024,48,Silver,food
+15549025,Female,0,455074,35,Gold,clothing
+2190141,Female,0,388923,43,Gold,dxmxp8
+5112449,,0,724110,1,Gold,dxmxp8
+10685199,smp,0,498376,18,Silver,Cars
+8922135,Female,125,626628,98,Standard,DRinkS
+11781304,Female,5,599000,76,Standard,DRinkS
+9488143,Female,143,24205,100,Standard,Hardware
+8743242,Female,0,354988,35,Standard,electronics
+14441594,Female,0,36961,15,Standard,sports
+8355847,Male,2,98632,58,Gold,sports
+3075321,,0,565313,31,Standard,DRinkS
+11985697,Female,3,126650,56,Standard,clothing
+14822618,smp,109,848928,93,Standard,COMPUTER
+6616178,smp,1,584232,45,Bronze,DRinkS
+10972445,,0,170488,1,Gold,dxmxp8
+11232830,Female,0,623795,6,Gold,sports
+9738948,,82,636004,81,Silver,Cars
+14996232,,53,161500,81,    ,DRinkS
+7607128,Male,5,151372,74,Gold,dxmxp8
+1422787,Female,14,552572,55,Gold,Cars
+1931251,Female,137,489332,100,Silver,food
+14472380,Male,3,379333,57,Bronze,electronics
+14018583,Female,0,258577,23,Gold,sports
+4749141,,0,56410,32,Silver,dxmxp8
+287184,Female,46,38330,88,    ,electronics
+11352100,Male,0,108188,3,Gold,Hardware
+5860018,Female,29,87045,76,Standard,sports
+5304559,,11,311534,80,Standard,dxmxp8
+15865408,Female,0,186254,21,Standard,COMPUTER
+1058183,Female,1,556205,32,Gold,clothing
+5824866,,23,712709,79,Standard,DRinkS
+3220715,Female,24,244692,83,Bronze,clothing
+9535355,smp,27,153841,81,    ,Cars
+6489507,Male,23,395078,70,Gold,dxmxp8
+13602671,smp,0,451029,5,Standard,DRinkS
+3165523,Female,0,353095,48,Standard,Cars
+3037974,,0,958402,3,Gold,COMPUTER
+4319554,Male,12,185780,83,Gold,Hardware
+2879793,Male,39,49330,83,Gold,Hardware
+960620,Female,52,681908,90,Standard,DRinkS
+6134615,Female,7,386333,45,Standard,COMPUTER
+3716829,smp,0,592010,2,Gold,sports
+13195895,Female,3,532023,47,Bronze,DRinkS
+11730621,smp,0,832075,41,Bronze,DRinkS
+11979154,Female,0,16066,21,Gold,Hardware
+2997425,Female,6,120230,54,Gold,Hardware
+932263,Female,20,310276,75,Standard,Cars
+6451250,Male,0,150074,46,Gold,sports
+3627617,Female,0,921925,0,Gold,DRinkS
+8801598,Male,0,323290,14,Gold,sports
+790978,Male,16,131563,71,Gold,Hardware
+5865779,Female,0,430492,46,Standard,COMPUTER
+1123011,Female,0,83948,14,Gold,Hardware
+16350017,,0,283317,34,Silver,food
+5023124,Female,6,246878,55,Standard,Cars
+4550218,Female,1,450980,53,Standard,COMPUTER
+5603670,Female,7,926011,78,Gold,Cars
+14985888,Female,0,255698,7,Gold,sports
+12213271,,0,593853,22,Gold,food
+3174496,Female,2,472013,68,Standard,Cars
+2895880,smp,9,573538,69,    ,DRinkS
+736047,Female,137,281407,100,Silver,sports
+6825363,,28,144348,83,    ,COMPUTER
+7277654,,5,470860,40,Gold,dxmxp8
+777871,Female,0,412199,22,Gold,sports
+11736181,Male,10,313,84,Standard,Hardware
+7531161,smp,2,848358,43,    ,gUITARS
+10923452,Female,118,9742,100,    ,electronics
+15802389,Female,0,230596,3,Gold,Cars
+12793764,Male,47,119644,92,Gold,dxmxp8
+14162629,Female,0,526052,3,Gold,dxmxp8
+12616349,Male,0,39666,42,Gold,Hardware
+2882464,Male,3,65676,70,Bronze,sports
+10862791,smp,0,401707,8,    ,gUITARS
+6870793,smp,0,719050,2,Gold,Cars
+1603522,smp,0,402680,5,Standard,DRinkS
+6708127,Female,0,668324,7,Gold,food
+10310256,smp,67,277700,91,    ,DRinkS
+12621995,,1,245829,63,Standard,food
+203751,Female,1,304233,60,Gold,food
+5255557,Male,0,579355,20,Gold,food
+6820330,Male,1,229333,49,Gold,clothing
+5516573,Female,0,51235,31,Gold,dxmxp8
+2429090,Female,0,369260,20,Gold,sports
+11454421,smp,12,318105,68,Standard,Cars
+3640611,,99,738091,97,    ,gUITARS
+1478806,Female,4,315278,74,Standard,COMPUTER
+4468663,Male,6,434456,74,Gold,Cars
+9824479,Female,0,734948,10,Gold,food
+5489752,Female,0,432977,1,Standard,DRinkS
+6553663,Male,0,314407,1,Gold,food
+13560578,Female,87,323552,96,Silver,sports
+8511408,Female,1,837148,45,Gold,DRinkS
+14114102,Female,88,586329,92,Gold,dxmxp8
+13327844,Female,0,146082,28,Gold,dxmxp8
+13769950,Female,0,304016,47,Gold,clothing
+4405784,Female,0,462545,24,Standard,COMPUTER
+2268565,Female,0,599438,33,Standard,gUITARS
+10890495,Female,0,548196,23,Gold,clothing
+12569190,smp,83,599087,94,    ,gUITARS
+1301572,Female,51,314399,88,Gold,dxmxp8
+9865408,Male,71,178590,92,Standard,clothing
+267208,smp,34,584114,65,    ,gUITARS
+8032529,,148,361963,100,    ,DRinkS
+12541683,Male,132,55458,99,Standard,clothing
+14245526,Male,5,42414,59,Standard,clothing
+91809,smp,4,793369,41,Gold,clothing
+15220927,Female,0,441184,8,Gold,clothing
+1081385,Female,60,9163,89,    ,dxmxp8
+921493,Female,0,428401,9,Gold,food
+14302755,Male,19,156344,80,Gold,dxmxp8
+13270981,Female,0,610553,0,Gold,gUITARS
+7332225,,1,1053384,53,Silver,DRinkS
+11466815,Female,31,76925,76,Gold,dxmxp8
+548314,Male,0,329466,8,Gold,food
+384109,smp,3,314903,34,Standard,electronics
+7498277,Female,14,506573,76,Gold,food
+3794936,Male,10,554789,73,Gold,sports
+6889230,Female,0,55041,1,Standard,food
+11796723,,74,590898,94,    ,DRinkS
+16703882,smp,0,273077,24,Standard,Cars
+13234590,Female,17,136009,85,    ,COMPUTER
+4724041,Male,118,884548,99,Gold,clothing
+4865094,smp,0,797651,14,Gold,Cars
+2511639,Male,21,101676,86,Gold,dxmxp8
+13097285,,51,124190,90,Standard,sports
+10756447,Male,67,352367,92,Standard,electronics
+8243878,Male,0,200888,46,Standard,Cars
+16509230,,5,431522,53,    ,DRinkS
+4260684,,80,18441,94,    ,COMPUTER
+8779572,smp,1,391106,70,    ,DRinkS
+4310501,smp,64,538370,92,Standard,COMPUTER
+1584622,smp,0,54489,8,Standard,sports
+7214860,,0,447936,17,Bronze,DRinkS
+9612622,,0,340202,29,    ,DRinkS
+4301479,smp,0,768686,9,Bronze,COMPUTER
+5896903,Male,2,40389,67,    ,electronics
+13734125,smp,140,460595,100,    ,electronics
+15283550,Female,0,616641,14,Gold,COMPUTER
+16330858,,144,7778,100,    ,sports
+513490,smp,33,498782,79,    ,gUITARS
+6085095,smp,0,736602,37,Bronze,DRinkS
+1464614,Female,39,193131,89,Standard,sports
+4674255,Female,0,569844,1,Gold,COMPUTER
+4821981,Female,5,35621,82,    ,Cars
+5240670,Female,8,130688,61,    ,DRinkS
+11267478,Female,0,352880,2,Gold,clothing
+1596031,Female,8,905287,64,Gold,electronics
+10024069,Male,9,14613,91,Gold,Hardware
+12555437,Female,0,167888,7,Standard,food
+12405628,smp,0,950529,0,Gold,DRinkS
+8850321,Female,0,87747,41,Gold,Hardware
+5897028,Female,0,213058,24,    ,COMPUTER
+12828353,Female,0,275872,8,Gold,dxmxp8
+5931108,Male,0,35628,1,Standard,clothing
+1603562,,0,401100,16,Gold,clothing
+2708107,,1,169768,44,Standard,Cars
+5587914,smp,0,818296,15,Standard,gUITARS
+9896345,Female,8,151941,64,Standard,food
+8987983,Male,112,368789,100,Standard,Cars
+3233108,smp,0,619490,20,Standard,DRinkS
+14718456,Male,0,89177,16,Gold,dxmxp8
+16658488,Male,0,112129,10,Standard,COMPUTER
+2446465,Male,5,10324,52,Standard,dxmxp8
+4657198,smp,6,221860,51,Standard,food
+15428250,Female,0,196412,14,Gold,clothing
+5739276,Male,7,250350,54,Gold,dxmxp8
+12112891,Female,94,558018,94,Standard,COMPUTER
+10492580,Female,0,214078,53,Standard,Cars
+6919386,Female,0,51316,27,    ,electronics
+11877839,,0,255361,0,Silver,Cars
+7138918,smp,0,676843,27,Gold,COMPUTER
+5056765,Female,0,181035,8,Gold,dxmxp8
+13268651,Female,1,456135,36,Gold,sports
+336547,Male,17,149554,79,Gold,sports
+11728069,,0,752165,0,Gold,DRinkS
+11500361,Female,0,475554,2,Gold,electronics
+7373436,Female,19,169807,85,Standard,electronics
+4799877,Female,62,642246,89,Standard,COMPUTER
+12565374,Female,22,243496,84,Bronze,clothing
+14172957,Male,5,209029,72,Gold,dxmxp8
+11667985,Male,74,323025,93,Silver,electronics
+6705425,Female,2,12842,48,Standard,clothing
+2190970,Male,0,155486,34,Silver,sports
+4510124,Male,5,75656,60,Silver,food
+6368853,Male,18,264221,77,Standard,Cars
+5418326,Male,0,12009,46,Gold,Hardware
+7035044,Male,0,594475,9,Gold,sports
+13329365,Female,1,335257,25,Standard,electronics
+14275846,Female,0,11420,63,    ,sports
+15540466,,0,337337,37,    ,Cars
+2595955,Female,0,104402,6,Bronze,COMPUTER
+16674381,Female,98,288380,97,Standard,sports
+2157292,Male,0,399978,9,Gold,sports
+5484154,Male,4,66125,60,Standard,food
+13473534,Female,0,171034,31,Silver,dxmxp8
+7264337,Male,0,252820,32,Bronze,food
+12292535,Male,14,174902,79,Gold,Hardware
+13555539,Female,83,783068,95,Gold,electronics
+4466185,Male,89,307443,97,Bronze,clothing
+2496797,Female,1,77211,51,Standard,dxmxp8
+5027248,Male,2,46814,45,Gold,sports
+14075439,,8,272339,61,Standard,sports
+12876600,,1,327208,48,Standard,COMPUTER
+3513875,Male,0,717611,1,Gold,food
+16082996,Female,1,346709,55,Standard,DRinkS
+14079365,Male,2,230771,58,Gold,dxmxp8
+16528443,smp,0,1047198,0,Gold,clothing
+10657985,,0,596691,9,Standard,DRinkS
+15568480,Male,0,43761,6,Gold,dxmxp8
+733719,Female,0,148425,53,Standard,food
+11938858,Female,122,7988,100,    ,clothing
+6641250,Female,0,732855,49,Standard,DRinkS
+7311320,Female,1,520140,18,Gold,clothing
+212249,Male,1,39863,65,    ,COMPUTER
+7407221,Female,2,109470,64,    ,electronics
+12719093,Female,16,295007,77,Gold,sports
+14065124,Female,1,150572,35,Standard,clothing
+7354202,Female,1,123929,62,    ,Cars
+8175722,smp,126,19041,99,    ,food
+7934607,Female,26,286381,78,Silver,clothing
+8343610,Female,135,14502,100,    ,electronics
+2181736,,10,512493,57,Gold,sports
+2354318,,0,902522,1,Gold,sports
+7263028,Male,11,144963,67,Gold,sports
+5486083,smp,0,1194883,2,Gold,DRinkS
+6281969,Female,1,541618,58,Standard,DRinkS
+11370542,Male,0,217454,44,Standard,COMPUTER
+8471142,Male,0,648870,2,Gold,electronics
+10076184,Male,0,105920,21,Silver,sports
+11841443,Male,0,417659,42,Gold,dxmxp8
+12172976,Female,0,410940,6,Gold,clothing
+4508861,Female,0,373041,40,Gold,Cars
+2453678,Female,0,540290,24,Standard,DRinkS
+5194646,Male,43,114327,86,    ,DRinkS
+6756692,,0,736030,4,Silver,DRinkS
+12204796,Female,0,355002,2,Gold,sports
+10529058,Female,1,841444,39,Gold,COMPUTER
+8366347,Male,0,511076,5,Gold,dxmxp8
+7371680,Female,0,56138,5,Standard,sports
+16618793,Female,8,258887,68,Standard,COMPUTER
+10695393,Female,0,879726,44,Gold,DRinkS
+783049,,0,463609,6,Bronze,electronics
+1391737,Female,0,297594,11,Standard,COMPUTER
+15150004,,4,739530,31,Gold,sports
+14697347,smp,0,588693,6,Gold,COMPUTER
+11020535,Female,34,262357,90,Bronze,food
+15233608,Female,0,62981,34,Standard,food
+673856,Female,0,110733,24,Gold,dxmxp8
+9415550,,40,468275,75,Standard,COMPUTER
+15237933,Female,0,333602,10,Gold,COMPUTER
+446501,Female,122,433714,96,Silver,food
+16281480,Male,80,2268,96,    ,dxmxp8
+14335265,Female,31,456883,73,Gold,sports
+5849736,Female,19,139565,85,Standard,food
+4071061,Female,2,191529,49,Gold,sports
+10337008,Female,35,109353,85,    ,food
+13327389,Female,0,189202,34,Standard,food
+14071044,,93,309434,90,    ,COMPUTER
+392284,smp,120,127096,99,    ,sports
+8410719,Female,114,417269,99,    ,DRinkS
+6457070,Male,12,258373,69,Gold,dxmxp8
+10383579,Female,1,338330,40,Gold,dxmxp8
+10951774,smp,19,429735,85,    ,Cars
+13540441,smp,0,593978,0,Silver,DRinkS
+8148107,,0,608482,22,Standard,gUITARS
+11777262,Female,0,905361,1,Gold,clothing
+7485449,Female,0,291224,1,Gold,dxmxp8
+1440789,smp,0,639310,19,Standard,DRinkS
+7000910,,1,407021,35,Bronze,Cars
+13423228,Female,6,40281,70,Standard,sports
+9781668,Female,1,888788,50,    ,gUITARS
+794042,Female,0,301985,2,Gold,dxmxp8
+2662676,Female,67,914370,94,Gold,DRinkS
+2783277,,0,793147,3,Gold,electronics
+7511248,smp,0,196489,1,Gold,sports
+11511664,Female,0,600858,1,Gold,Cars
+6299509,Male,95,390844,92,Gold,sports
+1716736,smp,1,802850,36,Standard,gUITARS
+5320856,Male,0,216724,29,Gold,electronics
+6746188,Female,48,319480,82,Standard,electronics
+4349555,Male,0,201234,16,Gold,clothing
+5913510,,0,469518,12,Silver,Cars
+851461,Female,8,19034,87,Standard,sports
+13107942,Female,16,347858,70,Silver,Cars
+13191649,Male,5,231018,68,Gold,sports
+182281,Female,0,463808,16,Gold,dxmxp8
+8359789,Female,85,127778,98,    ,Cars
+5131760,Female,0,155317,27,Gold,sports
+3888395,Male,6,232086,69,Silver,clothing
+1518548,Female,0,349843,3,Gold,Hardware
+5145503,,0,441794,7,Gold,Cars
+519424,Female,5,404266,64,Standard,DRinkS
+16379735,Female,0,294211,4,Gold,food
+13220783,Female,1,236847,70,    ,COMPUTER
+4407956,Female,0,79539,15,Gold,dxmxp8
+5942727,Female,0,16429,12,Standard,Hardware
+4068097,smp,19,439706,68,Gold,dxmxp8
+14965884,Female,127,222840,94,Standard,food
+8522431,Female,123,70723,99,    ,Cars
+6285388,smp,0,853798,0,Gold,COMPUTER
+1702698,,30,111296,92,Standard,clothing
+183710,Female,9,115152,76,Gold,Hardware
+10613180,Female,0,694189,1,Gold,COMPUTER
+9150344,Female,3,315426,49,Bronze,COMPUTER
+7286945,Male,0,12382,13,Silver,dxmxp8
+11701481,Female,22,769655,76,Gold,food
+12296680,smp,11,981006,74,Gold,sports
+16734730,Female,0,132438,24,Gold,dxmxp8
+13519081,Male,0,42053,29,Silver,Hardware
+16372510,Male,8,245409,71,Silver,sports
+15464605,Male,0,77254,2,Gold,clothing
+5821262,Female,0,419012,10,Silver,electronics
+10848631,,0,708100,4,Gold,DRinkS
+11591234,Male,91,271694,98,Gold,Hardware
+999208,smp,0,671448,19,Gold,Cars
+14925230,Female,14,64437,75,Standard,clothing
+16699443,Female,40,610600,92,Bronze,electronics
+89453,Female,26,260101,75,Standard,electronics
+6528425,Female,18,75129,80,    ,electronics
+1247290,,16,202583,78,    ,COMPUTER
+12628520,Female,8,137110,85,Standard,sports
+4440583,,15,362691,62,Standard,Cars
+7895180,smp,0,672551,9,Gold,Cars
+7217602,,0,553959,13,Gold,clothing
+3569796,Female,23,308232,69,Silver,dxmxp8
+14063518,Female,0,284405,44,Gold,sports
+13685549,Female,134,207662,99,Standard,clothing
+101950,Male,122,76269,99,    ,DRinkS
+1361717,Male,35,486263,86,Standard,Cars
+15169787,Female,2,151621,65,Gold,Hardware
+6807839,Male,25,65681,87,Silver,dxmxp8
+14759530,smp,2,597579,55,    ,gUITARS
+4951716,,0,573614,0,Gold,DRinkS
+1763829,smp,14,225019,63,    ,food
+9190303,,1,500401,40,Gold,clothing
+2545123,smp,15,801378,52,Standard,DRinkS
+519283,smp,128,254153,99,    ,gUITARS
+9428348,Male,0,231543,25,Gold,dxmxp8
+8483639,Female,6,519334,44,Gold,sports
+3554912,Female,0,334825,21,Gold,sports
+5768897,,15,373120,67,    ,gUITARS
+4832576,Female,54,103052,85,Gold,dxmxp8
+11624905,smp,0,641994,0,Gold,electronics
+7800537,,70,329207,85,Standard,electronics
+6071826,Male,2,250803,64,Gold,Hardware
+8833610,,0,579078,5,Bronze,DRinkS
+15536651,smp,0,940970,6,Gold,COMPUTER
+7584103,Female,1,250008,56,Bronze,food
+13947659,Female,58,180906,86,    ,DRinkS
+5453551,,0,800576,16,Gold,electronics
+4001264,Female,52,142974,94,Standard,electronics
+12009653,Female,0,462632,23,Gold,sports
+3561360,Female,7,188295,80,Standard,sports
+12317729,Female,98,170902,96,    ,clothing
+6972546,Female,5,396795,56,    ,gUITARS
+15844390,smp,0,620568,2,Standard,Cars
+5759449,Female,2,219866,41,Gold,dxmxp8
+5844171,Male,0,53324,13,Gold,sports
+5455346,smp,80,643835,93,Standard,Cars
+3016562,Female,0,397548,4,Silver,COMPUTER
+14345955,Female,3,519087,54,Standard,COMPUTER
+8616887,Male,23,216483,88,Gold,sports
+12903859,Male,0,44666,36,Gold,Hardware
+12478473,,7,412923,63,    ,DRinkS
+15117807,Male,95,171762,96,Standard,electronics
+12139403,Male,0,337498,32,Gold,dxmxp8
+8954461,Female,0,132457,46,Gold,dxmxp8
+2720273,,0,267868,4,Gold,clothing
+8295841,Female,7,64837,67,    ,electronics
+7140094,Female,0,401443,22,Gold,food
+16120557,Female,68,586770,85,Standard,DRinkS
+13919777,smp,72,745639,84,Standard,Cars
+10802296,Female,1,917029,45,Gold,Cars
+10803902,Female,73,67588,92,    ,food
+14280799,smp,77,495463,96,Gold,dxmxp8
+5955079,smp,4,512408,61,    ,DRinkS
+2042461,Female,12,432563,61,Standard,COMPUTER
+15070011,Female,9,470847,70,Standard,COMPUTER
+6484603,Female,7,56408,83,Gold,Hardware
+7026022,smp,68,706826,95,Standard,COMPUTER
+3138478,Female,116,128915,98,    ,Cars
+2398929,Male,0,135060,23,Gold,dxmxp8
+1778266,Female,1,174739,48,Gold,dxmxp8
+15574328,,67,115589,95,    ,Cars
+1563137,Female,0,561676,18,Silver,COMPUTER
+5846933,smp,0,953433,2,Bronze,DRinkS
+12658563,Female,84,453339,90,Standard,electronics
+8785185,Female,0,109553,5,Gold,sports
+8907665,Female,97,380471,96,Standard,DRinkS
+11985650,Male,0,102245,4,Gold,sports
+15532011,Female,0,139689,31,Standard,COMPUTER
+7109483,,8,574891,72,Standard,Cars
+8360989,,4,888269,59,Gold,Cars
+11198092,Female,0,197513,8,Gold,sports
+10994140,Female,65,766181,95,Standard,DRinkS
+6296806,Female,1,149481,53,Standard,clothing
+4412574,Female,0,685952,3,Bronze,DRinkS
+3645481,smp,51,361604,82,    ,DRinkS
+5604800,Female,82,521598,90,Standard,COMPUTER
+14424639,Female,0,389011,17,Gold,sports
+9247071,smp,149,104400,100,    ,COMPUTER
+13744505,Female,0,350170,0,Gold,sports
+11968545,,91,339857,93,    ,DRinkS
+1664156,Female,58,320677,95,    ,COMPUTER
+2494109,Male,6,42661,76,Silver,dxmxp8
+12284861,,1,313564,56,    ,DRinkS
+15847500,,11,141927,64,    ,COMPUTER
+59816,Female,1,406257,69,Gold,electronics
+10840321,Female,12,580778,64,Gold,dxmxp8
+16191159,Female,8,229893,74,    ,Cars
+4085393,Female,67,428177,96,    ,DRinkS
+1084683,Female,3,204477,31,Gold,dxmxp8
+15840053,Male,87,37099,95,    ,Cars
+8540377,Female,103,174277,96,Silver,sports
+12943318,Female,0,464722,8,Gold,electronics
+214969,,26,268215,60,Standard,clothing
+3220559,Male,8,46402,56,Standard,dxmxp8
+14284804,Female,0,381784,4,Gold,dxmxp8
+13268910,Female,49,397970,90,Gold,dxmxp8
+3950177,Female,5,238426,68,Gold,dxmxp8
+4040893,Female,0,609609,11,Gold,Cars
+11413961,Female,0,487144,17,Gold,electronics
+13029854,Male,3,135112,67,Standard,electronics
+5366347,,0,289657,18,Gold,dxmxp8
+3363712,smp,0,933090,5,Bronze,DRinkS
+692300,Female,98,106270,94,Standard,sports
+6879986,,0,507774,24,Gold,Cars
+872120,Female,53,250095,80,Standard,food
+4259596,Female,0,111161,1,Gold,Hardware
+12891013,Female,11,450666,76,Standard,COMPUTER
+16644430,Female,0,40508,41,    ,electronics
+15485108,,1,235586,62,Gold,dxmxp8
+5188398,Female,0,291806,25,Standard,Cars
+16598523,Male,0,350361,0,Gold,clothing
+11317746,smp,15,588974,74,Standard,Cars
+4506175,,4,552216,41,Standard,DRinkS
+1029374,,64,505691,91,Standard,Cars
+195506,smp,4,622530,41,Gold,clothing
+14623017,,1,573019,27,Gold,Cars
+11745664,Female,117,13813,97,Standard,dxmxp8
+5207142,Male,35,44561,79,Bronze,dxmxp8
+12097449,Female,32,258687,75,Gold,dxmxp8
+2730005,smp,0,302908,8,Standard,food
+10431902,Female,99,9750,96,Standard,dxmxp8
+967971,smp,133,342137,99,    ,DRinkS
+5495188,,19,454558,80,Gold,clothing
+4385859,smp,0,978068,16,Silver,gUITARS
+11370760,Female,1,66205,69,Standard,clothing
+15693677,smp,0,649705,44,Bronze,DRinkS
+12656593,Male,1,517849,44,Gold,dxmxp8
+15011313,Female,62,637904,92,Bronze,clothing
+769605,Male,0,203534,8,Gold,food
+6277595,Female,0,118743,20,Bronze,clothing
+5393404,Female,2,360950,64,Gold,clothing
+1450117,Male,2,31811,48,    ,Cars
+14090061,smp,21,530431,68,Standard,DRinkS
+5950825,,0,335621,32,Gold,food
+6130712,,0,655500,44,Gold,sports
+2775414,Male,0,586916,8,Gold,food
+11997218,smp,0,803929,17,Gold,clothing
+4452333,Female,3,804029,61,Gold,clothing
+10009288,Female,120,384828,99,Gold,dxmxp8
+9102619,smp,3,1040817,39,Silver,DRinkS
+2017758,Female,0,797848,4,Gold,COMPUTER
+6686281,Female,1,287959,45,Standard,electronics
+10403192,Female,84,21496,98,Standard,Hardware
+9587136,Female,0,270935,17,Silver,clothing
+3962945,Female,5,497927,48,Silver,electronics
+14125886,Female,0,244867,6,Silver,COMPUTER
+15254419,Female,2,620695,54,Gold,food
+4546841,,0,397029,9,Gold,electronics
+3796825,Male,24,59472,81,Gold,clothing
+9667399,Male,54,599936,88,Standard,DRinkS
+8317348,,0,347440,1,Bronze,COMPUTER
+1895968,Female,0,128425,39,Bronze,electronics
+9060666,Male,0,496571,15,Gold,Cars
+1101971,Female,0,513399,14,Gold,sports
+11183649,Female,0,375716,25,Bronze,COMPUTER
+5003105,Female,0,463909,20,Gold,Cars
+5589898,Female,49,407458,92,Standard,Cars
+1937970,Male,98,320908,97,Silver,sports
+1901394,Female,22,163401,69,Gold,Hardware
+16649970,Female,1,462773,37,Silver,DRinkS
+9653050,Male,137,53674,100,Standard,dxmxp8
+16727473,Female,0,575947,31,Gold,electronics
+53559,Female,3,96765,74,Gold,dxmxp8
+64165,,25,196338,79,Gold,sports
+6099257,Male,144,144971,100,    ,DRinkS
+5766072,Female,0,523153,14,Gold,Hardware
+10591289,,66,404878,92,    ,DRinkS
+3824892,Female,0,626033,2,Gold,sports
+3202067,Male,0,23036,22,Standard,food
+15596682,,0,295608,41,Silver,sports
+2766387,,0,219690,20,Standard,food
+2560677,,0,273675,3,Gold,dxmxp8
+6891166,,0,663699,3,Gold,COMPUTER
+11303951,Female,144,22574,100,    ,food
+10854109,,4,748323,52,Gold,electronics
+10744305,Female,0,149643,0,Gold,food
+10269607,Male,21,471211,96,    ,DRinkS
+9839327,,0,914145,25,Gold,electronics
+9673244,Male,0,102448,6,Gold,dxmxp8
+15974219,Male,0,162619,30,Standard,food
+9873955,Female,0,519237,34,Gold,sports
+10345790,Female,38,333410,97,    ,gUITARS
+6760435,Female,0,209783,20,    ,COMPUTER
+8884239,Female,0,80383,1,Bronze,electronics
+213093,smp,0,617171,14,Standard,COMPUTER
+71387,,27,340736,79,Silver,food
+14636352,Male,0,681682,27,Standard,gUITARS
+7299944,Male,0,396539,16,Gold,sports
+14537167,Female,15,62533,80,    ,clothing
+435579,Female,87,170443,97,    ,Cars
+13927026,Female,92,449884,90,Standard,COMPUTER
+7517156,Female,59,313457,90,Gold,sports
+7077463,Female,0,411052,1,Gold,clothing
+14072931,Female,81,49419,96,Standard,dxmxp8
+10493683,Female,4,384236,55,Silver,electronics
+7704160,Female,0,208889,13,Gold,dxmxp8
+16223528,smp,6,389510,69,    ,COMPUTER
+11030170,smp,48,20206,92,    ,electronics
+10528067,Male,141,263,100,    ,dxmxp8
+13444900,smp,118,220791,99,    ,COMPUTER
+14410780,smp,0,943347,36,Bronze,gUITARS
+3078342,Male,0,190111,9,Gold,sports
+1903266,Female,2,58623,87,Bronze,dxmxp8
+10438609,Female,0,389104,27,Gold,electronics
+13592888,Female,1,303566,68,    ,Cars
+8526158,Female,48,58957,84,Standard,sports
+3886328,Female,0,151192,1,Gold,dxmxp8
+3910966,Male,0,727263,26,Gold,DRinkS
+7482511,smp,3,486876,48,Standard,food
+6347959,,5,312008,38,Standard,Cars
+1150601,smp,0,1001251,33,Standard,gUITARS
+4267602,Male,0,329545,31,Gold,sports
+14750819,smp,58,370324,88,    ,COMPUTER
+5425351,Female,1,155597,39,Standard,food
+3843129,smp,52,502321,72,    ,DRinkS
+11814478,,0,236405,16,Gold,dxmxp8
+7733289,smp,59,633481,84,Standard,DRinkS
+13227254,Female,55,212630,82,Standard,electronics
+11765464,,0,470861,1,Gold,COMPUTER
+7662823,Female,12,217567,65,Standard,COMPUTER
+3299274,Female,20,229972,81,Standard,COMPUTER
+16442987,Female,0,254293,41,Standard,electronics
+3860226,Female,36,371505,82,Gold,sports
+7481226,Female,0,378525,14,Gold,sports
+9380706,Female,0,172307,30,Standard,food
+6964189,Male,0,139605,2,Gold,dxmxp8
+15629838,Female,0,55309,31,Gold,Hardware
+6329955,Female,65,166472,96,    ,DRinkS
+7108483,Female,18,698756,84,Gold,COMPUTER
+11065258,Female,34,198694,92,Gold,dxmxp8
+8366141,Male,0,337293,0,Gold,sports
+9333475,Female,96,60688,97,    ,sports
+12965548,Female,19,80294,65,    ,food
+14388538,Male,1,337928,51,Gold,clothing
+7123922,Female,76,401369,96,Bronze,clothing
+1396581,Female,2,367452,62,Bronze,food
+12839306,Female,43,130491,85,Standard,dxmxp8
+13629275,Female,0,247032,4,Gold,sports
+13950884,Female,1,254873,39,Gold,food
+6172749,smp,1,204185,43,    ,Cars
+4377641,,58,77305,92,    ,DRinkS
+4198469,Male,0,204987,54,Standard,COMPUTER
+4122881,,0,531403,8,Gold,clothing
+6392963,Female,0,41777,67,    ,Cars
+7552550,Female,135,131539,100,    ,COMPUTER
+3060365,Female,0,683352,9,Gold,Cars
+14836076,Male,22,82139,71,Gold,dxmxp8
+9216422,smp,0,803141,42,Gold,Cars
+704461,,0,602571,47,Standard,DRinkS
+903370,Female,0,112843,1,Standard,electronics
+2947677,Female,4,172362,66,    ,COMPUTER
+13912106,smp,0,693734,23,    ,gUITARS
+9973064,,1,559456,18,Silver,DRinkS
+8821868,Male,0,54378,7,Standard,food
+15305761,smp,28,301197,80,Standard,food
+8783090,Female,17,184591,67,    ,Cars
+10056411,smp,15,376465,89,Standard,electronics
+8752881,Female,3,286654,40,Gold,Hardware
+10864413,Female,19,512454,81,Silver,Cars
+11472666,Female,0,597708,60,    ,gUITARS
+16279940,,10,255748,60,    ,DRinkS
+9197816,Female,70,240436,94,Standard,electronics
+5410738,,0,895850,31,Gold,Cars
+4111332,Male,0,133927,3,Gold,dxmxp8
+3573859,Female,1,337817,56,Standard,COMPUTER
+8680175,Male,0,394525,11,Gold,clothing
+1825141,Male,0,51935,31,Silver,dxmxp8
+7823964,smp,75,469384,95,Standard,Cars
+13319421,Female,1,351175,42,Gold,clothing
+625089,,0,804977,2,Gold,COMPUTER
+13171381,Male,40,239931,88,Silver,food
+4601979,smp,66,462950,89,Standard,electronics
+13626682,Female,0,492889,49,Standard,Cars
+12024930,,2,525611,50,    ,gUITARS
+5166229,Female,36,147496,93,    ,gUITARS
+15649773,Female,80,334370,93,Bronze,clothing
+14635257,Female,0,452067,32,Gold,dxmxp8
+14763591,Female,0,57418,1,    ,DRinkS
+6173727,Female,7,701929,61,Standard,gUITARS
+15442001,Female,22,174204,87,Standard,clothing
+7127725,Female,10,260116,81,Standard,electronics
+3906131,Male,7,730839,58,Gold,food
+8142156,Female,23,43810,91,Standard,dxmxp8
+15488009,Female,3,759447,50,Gold,Cars
+3655791,Female,12,593915,85,Standard,Cars
+333020,smp,25,520496,80,Standard,Cars
+6359134,smp,0,658504,0,Gold,DRinkS
+13194836,Female,137,73552,100,    ,food
+6112359,Male,4,72509,72,Gold,dxmxp8
+7257637,Female,9,563704,60,Gold,food
+10776026,Female,1,395743,44,Standard,COMPUTER
+7352751,Female,0,685343,20,Standard,DRinkS
+9520472,Female,0,586417,14,Gold,COMPUTER
+10885219,,1,562377,52,Gold,clothing
+9235570,smp,63,255730,88,    ,DRinkS
+13316675,Female,0,191243,41,Standard,Cars
+8847880,Female,37,130512,81,Standard,Cars
+5321192,,0,203677,6,    ,DRinkS
+7985897,Male,0,400382,16,Bronze,COMPUTER
+14845899,Female,48,78488,87,    ,COMPUTER
+7553213,,0,186002,23,Standard,electronics
+2237066,Female,1,435168,43,Standard,DRinkS
+6263225,smp,0,377499,30,Silver,food
+3808109,Female,0,79456,3,Standard,clothing
+5649083,,0,319258,26,Standard,COMPUTER
+4323963,Male,12,679780,66,Gold,dxmxp8
+3957421,,0,1160804,0,Gold,DRinkS
+14553884,Male,138,127456,100,Standard,dxmxp8
+12999101,smp,81,263552,87,Standard,clothing
+12476862,Male,0,206951,14,Gold,dxmxp8
+7150604,Female,0,483573,11,Gold,food
+9187748,Female,0,317359,46,Gold,dxmxp8
+15677824,Female,1,687391,50,Gold,food
+4840635,Female,0,233950,38,Standard,clothing
+39585,smp,102,376540,96,    ,DRinkS
+11558858,Male,100,12634,99,    ,COMPUTER
+14996166,,106,498471,98,    ,COMPUTER
+12046978,Male,21,64977,84,Gold,Hardware
+1902816,Male,23,54025,86,Gold,Hardware
+6464584,Male,0,372164,30,Bronze,COMPUTER
+9912633,Male,10,32827,75,    ,clothing
+6031682,Female,2,854055,70,Standard,gUITARS
+10869672,Female,0,459794,21,Gold,food
+12950167,smp,1,691659,47,Gold,COMPUTER
+9468776,Female,0,203225,28,Silver,sports
+9328372,,41,584069,89,    ,DRinkS
+8302385,,0,674793,2,Gold,Cars
+12472261,Female,0,383437,0,Gold,dxmxp8
+13971321,Female,6,94752,67,Silver,dxmxp8
+4497696,,1,392112,31,Gold,food
+3520477,Male,5,283375,78,Gold,dxmxp8
+13186275,smp,15,617970,68,Bronze,electronics
+3657644,Female,0,342391,42,    ,gUITARS
+6080346,Female,0,357568,1,Gold,food
+15603215,Male,0,7910,31,Bronze,dxmxp8
+2663209,Female,116,117576,98,Standard,sports
+10016722,Female,137,875922,98,Bronze,COMPUTER
+6275811,Female,0,9319,37,    ,sports
+13290814,Female,0,949968,20,Gold,DRinkS
+14311042,Female,19,567716,64,Gold,food
+3128241,Female,75,133497,90,Standard,food
+13217259,Female,0,898905,27,Gold,electronics
+7764768,smp,0,742897,0,Standard,gUITARS
+2379005,Female,36,468702,93,Gold,sports
+8110308,Female,22,325072,71,Standard,COMPUTER
+10363144,Female,2,244099,59,    ,COMPUTER
+2380450,Male,0,321331,11,Bronze,clothing
+11471997,Male,10,182377,85,Standard,clothing
+9015087,Female,73,108632,76,Standard,dxmxp8
+9012454,Male,0,547904,7,Gold,dxmxp8
+6852388,Female,1,609861,41,Bronze,DRinkS
+10356328,Female,0,476042,23,    ,gUITARS
+13210752,Male,1,7800,50,Standard,dxmxp8
+8072915,Female,30,292375,81,Standard,electronics
+6463330,smp,47,435811,78,Standard,COMPUTER
+1360321,smp,56,227212,94,    ,electronics
+1455789,Female,0,282142,15,Gold,Hardware
+7117759,Female,1,22388,45,Gold,dxmxp8
+2525144,smp,59,740315,79,    ,gUITARS
+13683838,Female,20,525873,61,Gold,electronics
+10769847,Female,0,273025,4,Silver,food
+11653259,Female,0,533247,3,Gold,COMPUTER
+12514087,Male,79,6716,88,    ,food
+15155008,Female,12,485269,70,Gold,food
+7162301,,0,375286,53,    ,DRinkS
+12388776,Female,0,503286,24,Gold,dxmxp8
+3350687,smp,1,549732,42,Standard,Cars
+1707301,Female,40,456999,84,    ,COMPUTER
+7319784,Male,3,309695,66,Gold,dxmxp8
+2621135,Female,145,241682,100,    ,Cars
+13818637,,25,886693,82,Standard,DRinkS
+1966975,Female,110,362419,95,Bronze,clothing
+11604105,Female,2,766588,45,Gold,DRinkS
+9482504,Female,81,124341,93,    ,COMPUTER
+4778264,smp,1,395497,40,Standard,Cars
+13178333,Male,0,21533,11,Gold,dxmxp8
+7403639,Female,3,113085,45,Silver,food
+13129145,,0,345935,31,Standard,COMPUTER
+8356012,smp,0,600692,12,Gold,dxmxp8
+6240416,Male,15,4191,87,    ,dxmxp8
+12370133,Female,0,63002,11,Gold,dxmxp8
+15540656,Female,10,412419,72,Bronze,food
+7067837,Female,101,169528,99,    ,DRinkS
+11291578,smp,4,681561,42,Bronze,COMPUTER
+11327645,Female,0,218762,4,Standard,COMPUTER
+499837,Female,0,564660,1,Bronze,gUITARS
+4506776,Male,51,111471,92,Silver,sports
+12340029,,0,439276,0,Silver,COMPUTER
+14052867,,133,763485,99,    ,DRinkS
+11568130,Female,17,421992,70,    ,DRinkS
+3035766,Female,0,582791,17,Gold,sports
+16016501,Female,51,52508,97,Standard,dxmxp8
+12604045,smp,81,894089,96,Standard,DRinkS
+14585122,,0,647587,10,Gold,DRinkS
+10520851,Female,46,442847,75,Gold,electronics
+12353040,smp,0,352089,0,Silver,COMPUTER
+7644324,Female,0,441444,29,Gold,clothing
+8424011,Female,1,168889,40,Standard,food
+8441931,,2,17481,59,    ,sports
+8256184,,0,679240,8,Gold,electronics
+8877721,Female,0,323612,8,Gold,clothing
+16190699,,13,242904,63,Bronze,food
+14333843,Female,0,281578,27,Bronze,COMPUTER
+8178820,Male,0,391269,44,Gold,sports
+10793470,Male,0,21357,14,Gold,Hardware
+6420133,Male,0,911169,2,Gold,Cars
+5442579,Female,0,426819,11,Standard,DRinkS
+16596863,smp,0,38511,39,    ,Cars
+15117470,Female,0,359118,14,Standard,COMPUTER
+1194388,Male,6,241781,76,Gold,food
+7870400,Female,1,497960,43,Silver,COMPUTER
+12183213,Female,0,202995,9,Gold,dxmxp8
+5709715,Female,0,473588,4,Silver,DRinkS
+7517955,,10,411250,68,    ,DRinkS
+15336567,Male,0,45558,4,Gold,sports
+9103261,Female,2,220200,40,Gold,sports
+12881249,,71,591044,91,Standard,electronics
+1095613,,88,226508,91,Standard,food
+1301614,smp,106,337135,95,    ,DRinkS
+5513381,smp,12,580995,53,Standard,DRinkS
+13541016,Female,8,163514,69,Standard,food
+6857570,Female,0,123856,13,Gold,dxmxp8
+6103933,Female,0,406646,29,    ,gUITARS
+1742005,Female,4,615522,67,Gold,electronics
+5924136,Female,145,135869,100,    ,sports
+5810180,Female,0,218054,25,Gold,dxmxp8
+11974146,,0,368053,62,    ,COMPUTER
+4312624,Female,77,250847,94,Standard,Cars
+9655899,Female,1,682960,42,Silver,DRinkS
+11329161,Female,0,854738,18,Standard,gUITARS
+16205081,Female,4,59766,80,Standard,clothing
+2948272,,0,791972,6,Standard,gUITARS
+12044299,,1,889263,33,Gold,Cars
+9648894,Male,1,250502,55,Gold,Hardware
+13936753,Female,15,212522,67,Standard,electronics
+2074,Male,33,1306,83,    ,food
+8599063,Female,0,178165,0,Gold,Cars
+6941035,Female,0,305438,5,Gold,dxmxp8
+9050315,Female,0,160125,37,Standard,electronics
+16620701,,1,272591,68,Standard,DRinkS
+1278096,Female,44,256342,92,Standard,clothing
+15621882,Female,0,542973,8,Gold,dxmxp8
+16098094,smp,0,679135,17,Gold,COMPUTER
+10219726,Female,0,496322,41,Bronze,Cars
+3471602,Male,0,36872,3,Gold,Hardware
+2996117,Male,0,148927,39,Gold,dxmxp8
+10440450,smp,0,382104,14,Silver,electronics
+128083,smp,0,429667,24,Gold,clothing
+4074926,Male,0,355797,19,Gold,dxmxp8
+2092781,Female,2,1023288,36,Bronze,gUITARS
+8267563,Male,115,73960,98,Silver,dxmxp8
+1157096,Female,0,556918,48,Gold,sports
+16390479,smp,35,664628,73,Standard,COMPUTER
+10792622,Male,2,49245,61,Standard,dxmxp8
+5969823,Female,75,325566,91,    ,DRinkS
+2777786,Female,7,525805,63,Gold,clothing
+2461074,Female,8,95818,73,    ,DRinkS
+4243861,Female,5,222810,64,Gold,dxmxp8
+9879236,Female,8,8464,82,    ,clothing
+5458392,Female,1,211786,56,    ,COMPUTER
+8079446,Male,3,209939,45,Standard,food
+3559115,smp,22,222264,78,Bronze,clothing
+12008099,smp,106,304653,98,    ,DRinkS
+1681897,Female,140,424580,100,    ,DRinkS
+7917079,Male,2,195392,28,Gold,sports
+3287475,Male,0,104701,19,Gold,Hardware
+1230612,Female,50,898765,91,Standard,gUITARS
+2705718,,16,388473,85,Standard,COMPUTER
+13984255,Male,46,138017,96,Gold,dxmxp8
+12298004,Female,0,551956,11,Standard,DRinkS
+7918096,Female,111,129524,95,    ,sports
+658447,Female,3,727688,36,Silver,COMPUTER
+11752756,Female,61,425231,77,Standard,DRinkS
+13655130,,0,705150,5,Bronze,gUITARS
+1176788,smp,1,819918,48,Silver,Cars
+3641133,Female,0,672212,1,Gold,DRinkS
+2988170,Female,0,553716,16,Gold,COMPUTER
+11435218,Female,48,8775,90,    ,dxmxp8
+611128,Female,7,115504,67,Standard,clothing
+10722689,Male,0,59699,6,Gold,Hardware
+628503,Female,0,468436,14,Gold,Hardware
+16566459,Male,2,477937,42,Standard,DRinkS
+12088934,Female,119,307811,97,Standard,electronics
+16543917,Male,0,124553,50,Gold,Hardware
+7861473,,3,456079,59,Standard,Cars
+2141537,Male,21,249454,85,Standard,food
+8319041,Female,0,72550,20,Standard,sports
+9141844,,0,659998,4,Gold,food
+12000346,,0,480220,13,Standard,DRinkS
+10002195,smp,86,702290,97,    ,DRinkS
+14624654,Male,11,580752,79,Gold,Cars
+1663980,,0,449078,2,Gold,clothing
+14992254,,0,622253,9,Gold,clothing
+7192383,Female,3,204815,50,Standard,COMPUTER
+3066015,Female,0,314023,27,Gold,sports
+15665017,Female,3,288668,52,Standard,clothing
+9707176,Female,0,481426,3,Gold,clothing
+9523653,Female,1,22936,54,Standard,dxmxp8
+13415321,Female,3,151458,69,Gold,dxmxp8
+14789793,Female,0,243026,1,Gold,clothing
+5166822,Female,0,322870,0,Silver,electronics
+16395893,Female,1,359951,43,Standard,COMPUTER
+14731585,,9,598240,38,Bronze,COMPUTER
+7272726,smp,13,803862,57,Gold,clothing
+6803331,Female,0,128897,8,Bronze,electronics
+16289849,Male,123,302904,98,    ,COMPUTER
+12607756,Female,0,485251,31,Gold,sports
+6841715,Male,8,179531,57,Standard,clothing
+16603095,,102,89809,99,    ,COMPUTER
+549946,,0,724809,6,Gold,COMPUTER
+14903425,Female,13,137355,57,Standard,sports
+8608394,Male,9,420209,59,Gold,COMPUTER
+5069284,Male,0,427765,14,Bronze,gUITARS
+5217671,smp,0,507707,1,Standard,gUITARS
+7167232,Male,1,52759,66,Standard,clothing
+9215607,Male,142,2379,100,    ,dxmxp8
+8312113,smp,145,536365,100,    ,Cars
+2689654,Female,1,133928,39,Standard,Cars
+2786887,smp,0,869822,18,Gold,COMPUTER
+15472164,Female,0,431698,37,Gold,dxmxp8
+5246078,smp,12,420224,58,Silver,sports
+13505388,Male,13,42448,89,Bronze,dxmxp8
+1525344,Female,0,525961,0,Gold,Cars
+16724782,Female,0,283914,8,Gold,sports
+13398702,smp,0,305151,38,    ,gUITARS
+16254584,Female,12,191588,72,Standard,sports
+7497343,Female,0,645434,46,Bronze,COMPUTER
+6642741,Female,1,146946,43,    ,DRinkS
+13500554,Male,26,216588,88,Standard,food
+9477650,smp,0,324075,43,Gold,dxmxp8
+561581,Female,131,25755,100,    ,electronics
+5688881,Female,0,38956,25,Standard,sports
+16193987,,0,631129,16,Gold,electronics
+12660257,Female,30,815676,80,Standard,gUITARS
+8336622,Female,0,162267,12,Gold,clothing
+3014991,Female,104,245399,96,Standard,electronics
+9178932,Female,0,491400,36,Gold,Cars
+10224148,Female,122,53684,99,    ,clothing
+4301371,Female,0,185674,1,Standard,Cars
+14228611,,0,430911,17,Bronze,electronics
+8522099,Male,1,92156,40,Gold,dxmxp8
+5871469,Female,0,7613,34,    ,sports
+4998856,smp,25,291945,66,    ,DRinkS
+12099764,smp,0,376367,8,Gold,food
+14516044,Male,0,43247,47,Standard,Cars
+3722653,Female,0,41690,13,    ,Cars
+10859747,,0,1057424,0,Gold,clothing
+2582521,Female,50,40701,92,Bronze,dxmxp8
+2944658,,150,1036001,100,    ,gUITARS
+4078781,Male,101,9593,99,    ,food
+12751721,smp,85,259744,87,Standard,clothing
+15096686,Female,0,267018,12,Gold,sports
+7995952,Female,0,534678,9,Gold,sports
+2952852,Female,8,5282,60,Standard,dxmxp8
+12214820,Female,0,89607,2,Gold,sports
+13145945,Female,1,22612,49,    ,clothing
+16528080,Male,0,525843,1,Gold,dxmxp8
+16612067,Female,0,914106,15,Gold,COMPUTER
+8775752,Male,0,99417,2,Gold,dxmxp8
+3091198,Female,0,169159,26,Gold,clothing
+4635409,Male,0,205141,6,Gold,clothing
+5458991,Female,0,262126,19,Gold,sports
+7651003,Female,0,554475,5,Gold,COMPUTER
+15310315,,144,182632,100,    ,COMPUTER
+13189428,Female,0,354247,36,Silver,Cars
+15557298,Female,0,353777,28,Standard,COMPUTER
+2560131,Male,99,43738,99,    ,Cars
+780506,smp,2,900885,49,Gold,COMPUTER
+3914642,smp,147,909295,100,    ,gUITARS
+3588078,Female,0,273254,0,Gold,sports
+6919285,Female,78,151279,91,Standard,clothing
+10020923,Male,0,381675,14,Gold,dxmxp8
+7269645,Male,0,325845,50,Gold,clothing
+5638357,Female,0,778475,57,Gold,food
+13174364,Male,0,139000,5,Silver,clothing
+372457,Female,0,257791,32,Silver,sports
+13167518,Female,47,238385,86,Gold,sports
+563556,Female,0,286340,1,Gold,sports
+4281178,Male,0,224490,1,Gold,sports
+16391803,Female,0,85465,28,Standard,sports
+3425157,smp,54,523478,88,Standard,DRinkS
+14228203,smp,15,1067318,67,Standard,gUITARS
+8089867,Female,124,402504,92,Standard,COMPUTER
+6469066,Female,0,88043,20,Gold,dxmxp8
+10913633,smp,0,1015324,5,Bronze,gUITARS
+4221716,Female,0,107014,5,Gold,dxmxp8
+8903402,Female,58,234680,91,Bronze,food
+3328365,smp,30,268536,65,Standard,electronics
+12346685,smp,14,90445,69,Silver,Hardware
+5427730,Female,82,51773,90,Silver,Hardware
+675638,Female,0,35403,40,Standard,food
+15415972,smp,12,781990,64,Silver,COMPUTER
+7297278,Male,27,86967,88,Silver,dxmxp8
+22104,,16,264882,76,    ,electronics
+16219426,smp,0,582720,11,Standard,DRinkS
+12303259,Female,58,467565,88,Standard,Cars
+11305662,Female,72,407784,91,Standard,Cars
+4220906,,0,251077,33,Standard,sports
+129694,smp,0,281651,26,Standard,COMPUTER
+3259387,Male,104,391778,99,Standard,sports
+11888707,smp,3,512810,56,    ,gUITARS
+10828851,Female,5,567346,79,Silver,Cars
+4088412,Female,0,72672,3,Gold,dxmxp8
+1767956,Female,1,217022,54,Standard,food
+12598842,Male,55,475711,85,Gold,Hardware
+6817038,Female,2,312326,64,Standard,Cars
+10932550,Female,0,742605,28,Gold,DRinkS
+4641604,Female,3,381716,52,Standard,COMPUTER
+13677784,smp,0,636417,12,Silver,Cars
+7425,smp,83,437515,95,    ,COMPUTER
+10362907,Female,0,129555,41,Standard,clothing
+15350902,Female,0,550732,9,Gold,electronics
+10275438,,0,865329,8,Gold,food
+10459176,,142,15836,100,    ,dxmxp8
+7598648,Female,5,337414,70,Gold,dxmxp8
+2105412,smp,2,891069,43,Gold,electronics
+4194083,,0,806976,20,Standard,DRinkS
+4315169,Female,0,540683,9,Gold,COMPUTER
+8091970,smp,1,570571,58,    ,gUITARS
+5200695,,0,305236,24,    ,DRinkS
+1372867,Female,99,110992,95,Silver,dxmxp8
+1170291,,0,423752,29,Silver,Cars
+14809456,,15,480591,86,Standard,electronics
+4743510,Female,19,625926,63,Gold,clothing
+8447213,smp,0,692018,13,Standard,DRinkS
+6425729,Female,29,57471,77,Standard,sports
+13126294,Female,1,600888,36,Gold,Cars
+16621329,,0,388489,13,Gold,sports
+14037893,Female,12,67849,79,    ,Cars
+2963953,Female,2,110615,64,Standard,clothing
+11297370,Male,5,36082,69,Silver,dxmxp8
+14152592,Male,21,141787,65,Gold,dxmxp8
+1444759,Female,0,297275,18,Gold,sports
+12688513,Female,0,476107,3,Bronze,DRinkS
+9478949,Male,0,356967,0,Gold,dxmxp8
+5201853,smp,0,447202,2,Bronze,DRinkS
+3521487,Female,0,70501,34,Standard,dxmxp8
+15437659,Male,32,358609,83,Gold,clothing
+15119661,Female,0,547339,9,Gold,electronics
+12336859,Female,0,759355,23,Gold,COMPUTER
+5239838,Female,18,215836,63,Gold,dxmxp8
+6956582,Female,0,587884,6,Standard,DRinkS
+12624191,Female,120,261753,98,Gold,dxmxp8
+6326516,smp,0,149806,7,    ,electronics
+14061140,smp,1,125244,52,    ,food
+8175105,Female,0,332271,3,Gold,sports
+9119907,Female,1,318633,47,Gold,clothing
+16025632,Male,0,279039,6,Gold,dxmxp8
+10447378,Female,3,249031,53,Standard,Cars
+1179096,smp,10,670577,65,Standard,gUITARS
+34085,,32,314515,59,Gold,dxmxp8
+5235069,smp,4,363028,80,    ,DRinkS
+1114723,smp,0,670809,21,Gold,Cars
+5005193,Male,0,65477,4,Gold,Hardware
+5848498,,0,961805,7,Gold,DRinkS
+16260459,Female,0,317183,2,Gold,dxmxp8
+16170471,Female,44,243240,92,    ,Cars
+12589064,Male,16,61149,70,Standard,electronics
+4459704,Female,80,473208,94,Standard,DRinkS
+10770504,Female,7,504438,65,    ,gUITARS
+12229778,,0,289053,51,    ,gUITARS
+14440850,Female,0,570600,15,Silver,DRinkS
+14780968,Female,18,598071,72,    ,gUITARS
+4196364,,0,570939,7,    ,gUITARS
+3613111,Male,28,270859,65,Silver,clothing
+14800298,Male,0,138303,10,Standard,Cars
+1585719,Male,0,210116,44,Gold,sports
+2206068,,0,710058,21,Gold,electronics
+15788506,smp,136,288992,92,Bronze,clothing
+12999964,,2,554401,51,Gold,sports
+14856736,Female,0,217622,6,Gold,sports
+13645591,Female,0,422181,2,Bronze,DRinkS
+8631366,Male,0,311208,20,Gold,clothing
+6448446,Female,0,358262,7,Gold,sports
+1149397,Male,72,45279,95,Standard,clothing
+3526466,Male,141,89527,100,    ,clothing
+1775186,Male,0,207692,1,Gold,clothing
+456112,Female,0,462119,6,Gold,dxmxp8
+16282547,Male,0,113794,51,Gold,dxmxp8
+16425644,Female,58,13547,95,    ,electronics
+3898912,Female,5,316917,71,Gold,dxmxp8
+10007738,Female,46,194421,82,Gold,dxmxp8
+8748552,,0,355432,14,Standard,food
+7310074,Female,0,682733,11,Gold,electronics
+301922,Male,0,432591,21,Gold,COMPUTER
+1060373,Female,145,41913,100,    ,clothing
+2799721,Female,32,499172,93,Gold,dxmxp8
+9968171,Female,0,207633,0,Gold,food
+10627692,Male,55,389512,89,Standard,COMPUTER
+15111573,Female,0,143722,30,Bronze,clothing
+10067652,Female,0,236132,23,Gold,clothing
+15814345,Male,68,175941,95,    ,DRinkS
+2556503,,0,276481,4,Gold,sports
+6068292,Female,4,79595,58,    ,clothing
+4812751,Male,0,97496,4,Gold,dxmxp8
+10364785,,131,1063675,99,Standard,gUITARS
+8839268,smp,0,442372,13,Standard,Cars
+15946231,Female,0,541496,4,Standard,DRinkS
+13103347,smp,0,633264,1,Gold,sports
+214601,Male,0,182695,48,Standard,electronics
+14095501,Female,139,421515,99,Standard,Cars
+6037534,Female,5,318563,70,Gold,dxmxp8
+78100,smp,0,517677,17,    ,DRinkS
+14209290,Female,8,558633,59,Gold,electronics
+11789576,,0,201105,50,Standard,Cars
+14176262,smp,0,654382,5,Standard,DRinkS
+651552,Female,1,189836,55,Standard,COMPUTER
+3344858,Female,0,283369,36,Standard,DRinkS
+16406952,smp,115,914984,97,Standard,DRinkS
+11685842,Female,130,167491,100,    ,electronics
+855959,Female,0,180231,22,Gold,sports
+10974439,Male,0,21031,9,Gold,Hardware
+6830330,Female,0,28285,8,Standard,clothing
+13737833,Male,0,6193,41,Gold,Hardware
+3184691,Male,146,344198,100,    ,DRinkS
+3621009,Female,16,16994,78,Standard,dxmxp8
+14925748,Female,0,614218,0,Gold,Cars
+3985419,smp,1,507683,47,Gold,electronics
+10258771,Male,10,139598,84,Silver,sports
+12942625,Female,0,277142,10,Gold,sports
+11638862,Female,0,554357,14,Standard,DRinkS
+14891214,Male,3,59159,61,Gold,dxmxp8
+9299928,smp,22,440633,71,Gold,clothing
+627495,Female,30,1002196,71,Gold,COMPUTER
+3321087,,1,198823,64,    ,Cars
+7483926,Female,0,374788,15,Gold,clothing
+15997457,smp,0,319938,6,Standard,COMPUTER
+7448046,Female,0,320623,0,Gold,Cars
+7515897,Female,17,530996,85,Standard,COMPUTER
+2703487,Female,24,575255,71,Standard,Cars
+2134063,Female,0,544139,16,Silver,COMPUTER
+15320492,Male,0,350569,25,Gold,clothing
+594319,Male,13,425492,71,Silver,electronics
+12878080,Female,50,138388,93,    ,electronics
+3638849,Female,0,603601,11,Silver,COMPUTER
+15829636,Female,0,737848,42,Gold,DRinkS
+3099672,Female,7,444634,59,Silver,COMPUTER
+9182429,smp,23,428052,69,    ,DRinkS
+7977570,Female,0,737804,4,Gold,COMPUTER
+10712242,Male,7,165944,60,Gold,Hardware
+2724864,Male,1,279044,63,Standard,electronics
+4886978,Female,68,58740,82,Standard,sports
+13989404,Male,12,464189,80,Gold,sports
+16242712,smp,0,274814,15,    ,gUITARS
+555740,Female,0,315122,25,Bronze,Cars
+8018426,Male,123,160943,99,Silver,sports
+5416656,Female,1,115478,39,Standard,electronics
+8724468,Female,0,1111483,15,Gold,COMPUTER
+5696818,,0,194907,0,Silver,food
+3545997,Female,0,133054,39,    ,gUITARS
+13791315,Female,34,6613,75,    ,sports
+4657810,Female,2,194221,57,    ,Cars
+1650438,,0,312311,24,Standard,DRinkS
+7901452,Male,4,41066,87,    ,electronics
+11313209,Female,33,282878,81,Gold,dxmxp8
+6423173,Female,0,410561,25,Gold,food
+3453815,Female,3,598311,57,Gold,dxmxp8
+14602495,,0,699432,10,Gold,clothing
+3523684,Female,0,901647,0,Gold,electronics
+13868777,Female,102,279389,98,    ,DRinkS
+14787239,Male,8,10950,76,Gold,Hardware
+9044400,,21,311234,77,Standard,food
+1313772,Female,5,292452,78,Standard,Cars
+9058149,Female,4,245503,56,Standard,electronics
+4157344,,1,923847,39,Gold,COMPUTER
+7058967,Female,0,44952,6,Standard,clothing
+10810940,Female,2,346329,45,Gold,clothing
+5943488,Male,68,404158,96,Gold,dxmxp8
+13922729,Female,15,660190,84,Bronze,DRinkS
+7562558,Female,10,427069,63,Gold,dxmxp8
+16427119,smp,2,549427,45,    ,DRinkS
+6829403,Female,150,513877,100,    ,COMPUTER
+5815661,Female,29,341663,65,Silver,COMPUTER
+12728684,Male,34,476872,91,Gold,dxmxp8
+10891058,Female,12,185888,73,Standard,food
+13238710,Female,0,351297,16,Silver,COMPUTER
+2566687,,66,379673,91,    ,DRinkS
+7272126,,0,686095,11,    ,gUITARS
+14921149,Male,1,202733,45,Silver,clothing
+5110237,,0,361710,2,Silver,Cars
+3472330,smp,0,527657,8,Standard,DRinkS
+2297847,smp,39,928642,82,Bronze,COMPUTER
+15955341,Male,147,683,100,    ,dxmxp8
+11302772,Male,11,748,63,Bronze,Hardware
+6868915,Female,37,39855,89,    ,Cars
+177680,Female,2,315334,70,Standard,electronics
+9336560,Male,149,97224,100,    ,COMPUTER
+2883278,Female,1,189408,68,    ,COMPUTER
+14497938,Female,18,141445,83,Standard,food
+15759961,Male,63,103364,97,    ,Cars
+11960408,Male,0,302085,33,Gold,dxmxp8
+13920216,,0,420367,25,    ,gUITARS
+5788367,smp,24,501625,78,    ,gUITARS
+8864518,,0,661847,15,Gold,COMPUTER
+1187502,Female,0,176630,43,Standard,Cars
+1110476,Male,0,458070,15,Gold,dxmxp8
+9027147,Female,27,320430,73,Standard,electronics
+7191890,Female,2,411039,65,Gold,electronics
+3403458,Female,66,188524,93,    ,DRinkS
+8959520,,0,656776,35,Standard,DRinkS
+7427137,Female,0,10114,17,Standard,sports
+2033342,smp,7,563872,43,Gold,food
+8966262,Female,0,635082,3,Gold,sports
+9878848,Female,1,624630,46,Gold,COMPUTER
+10341047,smp,42,352064,63,Gold,sports
+11186670,Female,0,850533,6,Gold,Cars
+13786432,smp,0,665512,7,Gold,Cars
+5841496,Female,99,192826,96,    ,electronics
+3213789,Female,132,371487,99,Standard,food
+6441627,smp,24,799037,79,Gold,electronics
+16521948,Female,54,212090,89,Standard,Cars
+3191234,Female,0,357786,31,Standard,electronics
+15647732,Female,16,1038094,69,Gold,COMPUTER
+11931104,Female,46,65300,93,Standard,sports
+5517686,Female,9,261107,68,Gold,clothing
+14999423,smp,6,546591,74,    ,DRinkS
+6066398,Female,43,67962,87,Gold,Hardware
+2972737,smp,0,390738,4,Standard,clothing
+15155725,Male,0,350891,26,Gold,sports
+6269126,Male,0,50983,0,Gold,sports
+3084885,Female,37,162798,95,Standard,dxmxp8
+9816905,Male,0,197928,15,Gold,sports
+807531,Female,1,34436,53,Standard,dxmxp8
+7453748,Female,28,31330,90,    ,clothing
+9209620,smp,2,370983,37,Standard,COMPUTER
+8954074,Female,0,496987,8,Gold,sports
+9226750,Female,29,16450,83,    ,dxmxp8
+16150997,Female,0,125566,25,Gold,dxmxp8
+5175704,Female,0,483063,33,Gold,dxmxp8
+3870346,Female,1,282123,41,Silver,clothing
+3368868,Female,97,404569,95,Standard,COMPUTER
+14313794,Male,0,222163,20,Gold,Hardware
+16441893,Female,16,686249,82,    ,gUITARS
+12707808,Male,8,366047,78,Gold,dxmxp8
+671162,Female,20,84813,57,Gold,Hardware
+9175809,Male,0,25078,39,Standard,clothing
+1692674,Female,10,396096,68,Gold,sports
+9109007,smp,11,372621,72,    ,Cars
+8457548,smp,23,760445,80,Standard,DRinkS
+5572086,Male,4,79752,51,Gold,dxmxp8
+11854340,Female,0,118005,1,Standard,Cars
+16120678,Female,0,205741,10,Gold,dxmxp8
+10495907,Female,6,480562,54,Gold,clothing
+5460416,Female,24,614894,77,    ,gUITARS
+745703,Female,0,537411,6,Gold,dxmxp8
+16049078,Female,0,221198,29,Standard,food
+11511998,smp,0,622857,3,Silver,Cars
+2220684,,0,1056741,0,Gold,Cars
+8028542,smp,0,779564,16,Gold,Cars
+6565871,Female,0,513713,22,Gold,dxmxp8
+7185693,Female,135,94911,99,    ,dxmxp8
+8687338,Female,0,570228,20,Standard,DRinkS
+7111522,Female,44,489103,92,Standard,Cars
+4678488,Male,120,35804,95,Silver,dxmxp8
+9080640,Male,0,145084,4,Gold,Hardware
+1465774,,0,380878,3,Gold,clothing
+5415361,smp,0,344678,53,    ,DRinkS
+14440675,Female,6,64506,76,    ,food
+6804020,Female,33,522189,78,Gold,clothing
+6743604,smp,80,371239,85,Standard,Cars
+7271619,Male,0,585396,0,Gold,dxmxp8
+14058219,Female,135,199743,100,Standard,clothing
+10788307,,19,511830,64,    ,gUITARS
+10580003,smp,114,493649,99,    ,Cars
+4482194,smp,91,949444,95,    ,gUITARS
+14049736,Female,0,213452,9,Gold,electronics
+9869971,Female,0,355080,27,Standard,DRinkS
+7248129,,0,608553,3,    ,gUITARS
+10329750,smp,0,187913,32,    ,COMPUTER
+6725212,Female,62,22647,86,Standard,sports
+958921,smp,1,407143,19,Gold,clothing
+12873453,Female,21,455805,93,Gold,food
+14855680,Female,0,34555,45,Standard,clothing
+13906582,Female,1,215628,34,Standard,food
+15947061,Female,0,591834,0,Gold,electronics
+10190431,Female,0,668157,5,Gold,electronics
+7927033,Male,0,191101,25,Gold,sports
+1606861,Male,1,131911,73,Standard,clothing
+5307112,Male,0,82258,39,Standard,sports
+5854746,Male,0,345257,43,Gold,clothing
+421976,smp,107,129154,94,    ,COMPUTER
+13297174,Female,1,163494,54,Bronze,sports
+7837037,smp,0,598538,30,Gold,clothing
+6541726,Female,0,577307,1,Gold,DRinkS
+4939491,Female,0,861087,0,Gold,COMPUTER
+11432303,Female,0,32889,9,    ,Cars
+7242069,smp,4,1001042,43,Gold,COMPUTER
+7801835,Female,31,322335,92,    ,DRinkS
+3803587,Female,0,118783,23,Gold,clothing
+7666244,Female,0,182195,12,Gold,sports
+5807379,,0,156476,45,    ,DRinkS
+11114256,Female,0,219131,7,Silver,clothing
+3331915,Male,0,406862,1,Gold,food
+255071,Female,0,512112,27,Bronze,Cars
+3855241,Female,0,389193,7,Standard,COMPUTER
+7618045,Male,0,37126,14,Gold,dxmxp8
+8767006,Female,0,908347,0,Gold,gUITARS
+5774209,Female,56,429053,89,Standard,food
+10303946,Male,15,33244,88,    ,clothing
+428204,Female,0,213327,1,Standard,Cars
+1725519,Female,2,15511,57,    ,Cars
+10192042,Female,1,277050,28,Gold,dxmxp8
+4300478,Female,0,368193,18,Gold,clothing
+6379201,Female,0,877103,27,Gold,COMPUTER
+1838756,smp,0,565323,18,Silver,Cars
+1489214,Female,0,38460,12,Gold,dxmxp8
+10748935,Female,4,392683,46,Gold,dxmxp8
+9173317,Male,0,78979,23,    ,DRinkS
+11220928,,6,337526,56,Gold,clothing
+5018668,Female,18,346857,66,Standard,electronics
+14854949,Male,0,700379,1,Gold,electronics
+1738414,Female,0,411928,4,Gold,sports
+4226640,Female,0,198741,18,Gold,food
+1878306,,0,33227,15,Standard,dxmxp8
+3385349,,3,751481,63,Gold,food
+8482163,,36,96752,86,    ,DRinkS
+11337400,smp,21,871462,68,Gold,electronics
+63248,Male,37,23503,80,Standard,sports
+9073228,Female,1,251023,58,Bronze,Cars
+9710729,Male,1,41101,41,Standard,sports
+9098072,Female,35,104256,96,    ,electronics
+6481722,Female,0,375958,2,Gold,food
+5074387,Female,0,164052,10,Gold,sports
+12383771,Female,0,469912,29,Gold,clothing
+6699447,Male,0,30061,4,Standard,electronics
+6619743,smp,28,488052,80,Standard,DRinkS
+5141740,Male,103,148425,94,Standard,clothing
+8012463,Male,0,185683,7,Gold,sports
+11666636,,0,477861,26,Bronze,DRinkS
+7419631,Female,0,253770,8,    ,COMPUTER
+1898146,Female,20,311884,67,Gold,dxmxp8
+5223523,,108,200482,96,    ,clothing
+5574861,Female,146,622425,100,    ,DRinkS
+5236726,Male,67,457211,95,Silver,electronics
+7733295,Female,0,119397,3,Silver,clothing
+14967875,Female,28,136094,90,Standard,dxmxp8
+11693130,Male,22,453024,91,Gold,dxmxp8
+6831540,Female,34,655430,84,Gold,clothing
+6637845,Male,0,243047,28,Gold,food
+4837901,Female,0,121661,9,Gold,clothing
+6212812,smp,65,156016,94,    ,DRinkS
+13334276,Male,7,344812,76,    ,DRinkS
+7314198,,0,846206,7,Gold,Cars
+8335999,Female,0,625565,2,Gold,dxmxp8
+13973748,Female,107,422023,99,Standard,electronics
+2557191,Female,0,493290,0,Gold,electronics
+432820,,21,430939,75,Standard,DRinkS
+12599819,Male,149,36780,100,Standard,dxmxp8
+9005730,Female,0,237908,35,Silver,Cars
+6187033,,38,46425,87,    ,COMPUTER
+15475039,smp,12,660375,75,    ,gUITARS
+7796254,Female,0,249552,2,Standard,DRinkS
+5554734,Female,0,302351,59,Gold,sports
+4729072,Female,1,848144,45,Standard,DRinkS
+9781012,Female,1,436924,36,Standard,COMPUTER
+9874003,Female,0,277024,30,Gold,dxmxp8
+11944305,Male,1,245748,43,    ,DRinkS
+14792216,Male,39,125642,83,Gold,dxmxp8
+2069801,Female,0,510232,31,Gold,clothing
+15964623,Female,0,83752,22,Standard,Cars
+3055976,,0,354039,31,Bronze,food
+14672063,Female,2,163188,59,Standard,electronics
+7619277,smp,3,543507,44,Silver,electronics
+6126942,smp,0,689489,4,Gold,Cars
+11520043,Male,0,16345,32,    ,DRinkS
+11002809,smp,0,475739,24,Standard,DRinkS
+14492455,,0,692712,18,Silver,Cars
+11968712,Female,0,900836,12,Silver,gUITARS
+3202831,Female,1,147236,61,    ,electronics
+9784258,Female,0,813128,1,Gold,sports
+749025,Female,140,592442,100,Standard,electronics
+692618,Female,0,211765,16,Gold,food
+13490212,,9,72729,82,    ,Cars
+8022077,smp,0,1161434,20,Standard,gUITARS
+723792,Male,1,336346,42,Gold,sports
+1628098,smp,1,582765,50,Standard,Cars
+13040890,Female,3,708344,65,Gold,Cars
+3670518,Male,78,451264,94,Gold,sports
+4639083,,0,561126,10,Gold,food
+14533568,Female,75,105004,96,    ,Cars
+10086073,Female,0,217730,6,Gold,clothing
+6168034,Female,0,425191,9,Gold,food
+13155193,Female,27,332574,84,    ,DRinkS
+6371400,Female,8,484023,82,    ,DRinkS
+8726184,smp,0,912297,38,Standard,DRinkS
+16645081,Female,49,394197,85,Standard,electronics
+6775258,Female,0,509783,39,Gold,dxmxp8
+14312077,Female,0,403797,10,Gold,food
+7554788,Male,0,2574,13,Standard,food
+3903782,Female,50,400714,79,Gold,dxmxp8
+2725594,Female,0,518839,10,Silver,Cars
+2422926,,0,86391,42,    ,clothing
+9229484,,0,645236,25,Standard,DRinkS
+836388,Male,0,129526,4,Gold,Hardware
+13735890,Male,0,421699,30,Gold,dxmxp8
+11557988,Male,6,225780,81,Silver,clothing
+12051264,Female,1,247445,44,    ,COMPUTER
+6914276,smp,0,410252,7,Standard,Cars
+10980031,,91,224432,91,Standard,electronics
+14033007,Female,70,182825,96,Gold,dxmxp8
+6207838,,28,962381,80,Standard,gUITARS
+7785064,Male,0,242662,0,Gold,food
+4620881,Male,18,280277,88,Gold,Hardware
+1342504,,0,382334,2,Standard,DRinkS
+375278,,0,284138,24,Standard,clothing
+16140650,smp,0,327479,3,Standard,DRinkS
+5054685,Male,7,88439,61,Gold,dxmxp8
+14672183,smp,0,474443,27,Standard,Cars
+7154862,Male,43,195184,89,Gold,Hardware
+7595200,smp,0,627799,7,Standard,DRinkS
+8509374,Female,60,707583,95,Standard,electronics
+4817237,Male,2,109697,63,Gold,sports
+13527942,Female,0,361883,43,Standard,COMPUTER
+16071649,,129,229591,97,    ,Cars
+12175940,,0,862963,5,Gold,gUITARS
+9082573,Female,21,369424,85,    ,DRinkS
+959111,Male,36,153835,88,Gold,sports
+467554,Female,0,608122,45,Bronze,COMPUTER
+7085261,Male,1,121045,63,Gold,sports
+12560788,Female,14,258422,58,Gold,dxmxp8
+2656312,Male,0,112330,32,Gold,Hardware
+7939853,smp,4,735871,58,Gold,electronics
+11533084,Female,1,202560,47,Standard,electronics
+4640536,smp,0,938681,14,Standard,gUITARS
+10354226,Female,81,79054,97,Standard,clothing
+15727583,Male,0,139308,18,Gold,Hardware
+9790707,smp,2,463860,34,Bronze,electronics
+7618819,Female,86,298710,89,Gold,dxmxp8
+15419282,smp,0,593825,19,Gold,sports
+9957676,Female,0,428279,32,Gold,food
+1425100,Male,13,359624,83,Gold,sports
+6549387,Male,29,209207,74,Standard,electronics
+3071911,Female,0,309021,55,Standard,COMPUTER
+2452010,,9,755487,69,Bronze,COMPUTER
+1882034,smp,16,351420,62,Gold,dxmxp8
+14341544,Male,0,73656,29,Gold,dxmxp8
+9697107,Female,0,788374,5,Gold,clothing
+9449734,smp,107,892479,95,    ,DRinkS
+874059,,27,24208,86,    ,dxmxp8
+9198869,Female,0,731214,19,Bronze,DRinkS
+1210191,Female,0,763201,9,Gold,food
+9203739,Female,8,469753,73,Standard,food
+5660068,Female,5,336470,81,Gold,Hardware
+2208707,Female,35,243786,78,    ,COMPUTER
+5792665,smp,10,196809,57,    ,COMPUTER
+5442140,,0,335624,8,Gold,sports
+13159236,Female,0,321799,25,Gold,food
+15917731,Female,0,320663,10,Gold,clothing
+16048597,Male,41,130541,87,Gold,Hardware
+1366468,smp,0,467774,23,Gold,food
+9025045,Male,0,47703,33,Standard,electronics
+15957942,Female,0,272706,1,Gold,clothing
+8332978,Female,57,1362,93,Standard,dxmxp8
+12293417,,0,408892,18,Gold,sports
+10259779,Female,18,177789,73,Gold,dxmxp8
+6148698,Female,31,270685,92,    ,DRinkS
+8110581,Female,0,527781,26,Gold,Cars
+12581399,smp,0,206150,22,    ,gUITARS
+15497062,Male,0,73316,8,Gold,Hardware
+857853,,0,574376,1,Standard,DRinkS
+9399402,smp,0,509971,16,Standard,DRinkS
+9202794,smp,3,882621,66,Gold,Cars
+2660769,smp,39,312433,64,Standard,sports
+6905570,Female,0,216311,1,Standard,electronics
+6481128,smp,0,356439,40,Standard,COMPUTER
+11112052,,4,545191,59,Gold,clothing
+15596988,Female,0,288631,13,Standard,DRinkS
+2354592,Female,0,740270,2,Gold,food
+4522376,Female,30,52739,81,Gold,Hardware
+14699863,Female,4,384625,35,Gold,electronics
+11426000,Male,0,567277,8,Gold,food
+11171177,Female,0,665866,10,Bronze,DRinkS
+5029428,Female,3,334372,43,Silver,Cars
+11612700,Female,0,482093,8,Standard,DRinkS
+4383364,Female,0,779841,34,Gold,electronics
+4316917,Male,0,94383,13,Standard,electronics
+7738637,,17,666889,48,Gold,Cars
+10272154,Male,2,92172,74,    ,electronics
+8338326,,127,310321,99,Standard,clothing
+15859684,Female,0,333323,20,Gold,clothing
+15418085,Female,13,246591,62,Silver,sports
+8775586,,76,305150,90,    ,DRinkS
+9675112,Male,1,341660,44,Gold,dxmxp8
+1280507,Female,0,855656,35,Gold,DRinkS
+2766904,Male,0,157994,39,Gold,Hardware
+12769717,Male,0,397497,8,Gold,food
+7057944,Male,0,282063,21,Gold,sports
+5161539,Female,4,592114,70,    ,DRinkS
+12715736,Female,1,349362,56,Silver,food
+11140219,smp,0,644752,7,Gold,electronics
+8290335,Female,2,91570,82,Silver,dxmxp8
+10796446,Male,0,274157,16,Gold,sports
+8489092,Male,4,28281,65,Gold,dxmxp8
+4314734,Female,1,221163,57,Gold,dxmxp8
+15296773,Male,2,1544,57,Standard,Hardware
+13130550,Female,58,856124,91,Gold,food
+13923344,smp,59,613410,94,Standard,Cars
+8493027,Female,3,251311,30,Gold,clothing
+13725898,Female,0,45787,18,Gold,dxmxp8
+11357222,Female,109,131163,99,Bronze,dxmxp8
+11811128,Female,2,502484,58,Bronze,electronics
+4536400,Male,13,50148,70,Standard,sports
+1492686,Female,109,271511,97,    ,DRinkS
+4123957,smp,82,585873,95,    ,gUITARS
+2414427,smp,0,157625,0,Bronze,food
+15970187,smp,12,529119,75,Standard,COMPUTER
+9776857,Male,0,21407,22,Gold,Hardware
+8015574,Female,46,632493,92,Standard,COMPUTER
+3772255,,0,670805,11,Gold,clothing
+1649708,Female,2,375400,22,Gold,Hardware
